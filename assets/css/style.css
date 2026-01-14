@@ -1223,6 +1223,21 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
 
+.resume-btn {
+  display: inline-block;
+  padding: 6px 12px;
+  background: #4f46e5;
+  color: #fff;
+  border-radius: 6px;
+  font-size: 14px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.resume-btn:hover {
+  background: #3730a3;
+}
+
 
 
 /*-----------------------------------*\
